@@ -4,7 +4,7 @@ kakenavi's ScarpBook Material
 Overview
 
 ## Description
-    Tiis is not computer software.
+    This is not computer software.
 
 ## Licence
 
