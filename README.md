@@ -10,4 +10,4 @@ Overview
 
 ## Author
 
-[tcnksm](http://kakenavi.com)
+[kakenavi](http://kakenavi.com)
